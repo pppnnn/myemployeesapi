@@ -7,5 +7,5 @@
 
 [build]
   base    = ""
-  publish = "/opt/build/repo/target/site"
+  publish = "target/site"
   command = "./mvnw clean site"
